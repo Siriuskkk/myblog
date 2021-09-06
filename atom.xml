@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://siriuskkk.github.io/myblog/</id>
-    <title>Gridea</title>
-    <updated>2021-09-06T12:10:42.593Z</updated>
+    <title>siriuskkk</title>
+    <updated>2021-09-06T12:28:32.855Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://siriuskkk.github.io/myblog/"/>
     <link rel="self" href="https://siriuskkk.github.io/myblog/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://siriuskkk.github.io/myblog/images/avatar.png</logo>
     <icon>https://siriuskkk.github.io/myblog/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, siriuskkk</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://siriuskkk.github.io/myblog/post/hello-gridea/</id>
